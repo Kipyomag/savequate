@@ -1,0 +1,4 @@
+chatons:
+    resource: AppBundle\Controller\ChatonController
+    type:     rest
+
